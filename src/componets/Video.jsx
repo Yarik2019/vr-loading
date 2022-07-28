@@ -17,9 +17,9 @@ const Video = () => {
                     >Awesome experiences with virtual reality world</h3>
                     {/* modal Video */}
                     <ModalVideo isOpen={isOpen} setOpen={setOpen}>
-                  <ReactPlayer url='https://www.youtube.com/watch?v=ysz5S6PUM-U'
-                                       width='100%'
-                                       height='100%'     />
+                  <ReactPlayer url='https://www.youtube.com/watch?v=NOk_M1Ib5F0'
+                               width='100%'
+                               height='100%'     />
                    
 
                     </ModalVideo>
